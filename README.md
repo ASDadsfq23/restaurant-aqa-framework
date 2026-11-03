@@ -1,4 +1,4 @@
-# Green & Tasty — AQA Framework (Homework 8)
+# Green & Tasty — AQA Framework (Homework 8 + Homework 4)
 
 Автоматизовані тести для сервісу «Green & Tasty» (Напрям 1: Group Pre-Order, 1-й рівень складності).
 
